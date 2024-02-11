@@ -12,7 +12,7 @@ from pyrogram import (
     types,
     raw,
     utils,
-    Client
+    Client,
     StopTransmission
 )
 from pyrogram.errors import (
