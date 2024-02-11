@@ -3,6 +3,7 @@ TgCrypto
 pyromod
 python-dotenv
 dnspython
+pyrogram==2.0.106
 motor
 Pillow
 hachoir
